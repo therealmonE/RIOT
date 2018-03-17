@@ -1,8 +1,8 @@
 # name of your application
-APPLICATION = hello-world
+APPLICATION = FirstEXMPL
 
 # If no BOARD is found in the environment, use this default:
-BOARD ?= native
+BOARD ?= unwd-range-l1-r3
 
 # This has to be the absolute path to the RIOT base directory:
 RIOTBASE ?= $(CURDIR)/../..
